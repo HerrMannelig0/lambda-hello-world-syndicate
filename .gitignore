@@ -1,0 +1,5 @@
+.syndicate
+.git
+.syndicate-config-*
+.idea
+logs/
